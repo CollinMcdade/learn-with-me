@@ -23,46 +23,50 @@ Learning how to **Deploy a Django Website using AWS**.
 
 This section breaks down the learning process into manageable modules or topics.
 
-### Module 1: [Module Title - e.g., Introduction to Python for Data Science]
+### Module 1: Django Web Framework
 
 * **Key Concepts:**
-    * [Concept 1]
-    * [Concept 2]
-    * [Concept 3]
+    * Backend
+       * What are Models
+       * Understanding APIs
+           * Serializers
+           * Views
+    * Frontend
+       * What are templates
+       * How do routers work
 * **Tasks/Exercises:**
-    * [Task 1]
-    * [Task 2]
+    * Create a functional API
+    * Set up a router to render a template following a specified path
 * **Status:** ⚪ Not Started / 🟡 In Progress / ✅ Completed
-* **Date Started:** [YYYY-MM-DD]
+* **Date Started:** July 6, 2025
 * **Date Completed:** [YYYY-MM-DD]
 
-### Module 2: [Module Title - e.g., Supervised Learning Basics]
+### Module 2: Amazon EC2 Instance
 
 * **Key Concepts:**
-    * [Concept 1]
-    * [Concept 2]
-    * [Concept 3]
+    * What is an EC2 instance
+    * Ephemeral nature of such an instance
+       * Resource Warning
+    * Discussion of EC2 hardware
 * **Tasks/Exercises:**
-    * [Task 1]
-    * [Task 2]
+    * Create an EC2 instance
+    * Shell into your EC2 instance and explore the capabilities
+    * Run your django application from an EC2 instance
 * **Status:** ⚪ Not Started / 🟡 In Progress / ✅ Completed
-* **Date Started:** [YYYY-MM-DD]
+* **Date Started:** July 6, 2025
 * **Date Completed:** [YYYY-MM-DD]
 
-### Module 3: [Module Title - e.g., Model Evaluation & Hyperparameter Tuning]
+### Module 3: Security Discussion
 
 * **Key Concepts:**
-    * [Concept 1]
-    * [Concept 2]
-    * [Concept 3]
+    * HTTP & HTTPS ports
+    * Django guidelines
+    * User authentification
 * **Tasks/Exercises:**
-    * [Task 1]
-    * [Task 2]
+    * Follow Django guidelines for deployment
 * **Status:** ⚪ Not Started / 🟡 In Progress / ✅ Completed
-* **Date Started:** [YYYY-MM-DD]
+* **Date Started:** July 6, 2025
 * **Date Completed:** [YYYY-MM-DD]
-
-*(Add more modules as needed)*
 
 ---
 
@@ -70,21 +74,14 @@ This section breaks down the learning process into manageable modules or topics.
 
 A curated list of all the materials used for learning this topic.
 
-* **Books:**
+* **Documentation:**
     * [Book Title] by [Author] - [Link to Book]
     * [Book Title] by [Author] - [Link to Book]
 * **Online Courses/Tutorials:**
     * [Course Name] - [Platform] - [Link to Course]
     * [Tutorial Series Name] - [Website/Creator] - [Link to Tutorial]
-* **Articles/Blogs:**
-    * "[Article Title]" by [Author/Blog Name] - [Link to Article]
-    * "[Article Title]" by [Author/Blog Name] - [Link to Article]
 * **Videos/Playlists:**
     * "[Video Title/Playlist Name]" by [Channel Name] - [Link to Video/Playlist]
-* **Documentation:**
-    * [Tool/Library Name] Official Docs - [Link to Docs]
-* **Cheatsheets:**
-    * [Cheatsheet Name] - [Link to Cheatsheet]
 
 ---
 
